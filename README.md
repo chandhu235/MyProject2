@@ -1,4 +1,4 @@
-🏦 Bank System (Java)
+# 🏦 Bank System (Java)
 
  Project Overview
 This is a simple **Bank Management System** implemented in **Java**.  
@@ -20,14 +20,14 @@ Features
 
 ---
 
-Technologies Used
+ Technologies Used
 - **Language:** Java  
 - **IDE (Optional):** Eclipse / IntelliJ IDEA / VS Code  
 - **Core Concepts:** OOP, Classes & Objects, Exception Handling, Scanner for input  
 
 ---
 
-How to Run
+ How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/BankSystem.git
@@ -47,7 +47,7 @@ How to Run
 
 ---
 
-Example Workflow
+ Example Workflow
 ```
 --- Welcome to the Bank System ---
 1. Create Account
@@ -61,7 +61,7 @@ Enter your choice:
 
 ---
 
-Future Enhancements
+ Future Enhancements
 - Add support for multiple accounts.  
 - Save account data using files or a database.  
 - Implement login system with username/password.  
