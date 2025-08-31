@@ -1,4 +1,4 @@
-🏦# Bank System (Java)
+🏦 Bank System (Java)
 
  Project Overview
 This is a simple **Bank Management System** implemented in **Java**.  
